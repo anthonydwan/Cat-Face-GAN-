@@ -5,4 +5,4 @@ I will be using basic GAN model to create cat face images. I hope to learn new m
 Enjoy!
 
 
-![CAT_FACE](Cat faces.png)
+![CAT_FACE](https://github.com/anthonydwan/Cat-Face-GAN-/blob/master/Cat%20faces.png)
