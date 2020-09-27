@@ -13,8 +13,8 @@ Enjoy!
 Currently, you may see that there are some resemblance of cat faces in the images but they are not satisfactory results:
 1. there are few images that look like smears; 
 2. some indication of model collapse:
-  1. the best results are quite similar;
-  2. all results are of black or ginger coloured cats.
+    1. the best results are quite similar;
+    2. all results are of black or ginger coloured cats.
 
 ## Next Steps 
 
