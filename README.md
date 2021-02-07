@@ -2,6 +2,8 @@
 
 I will be using basic GAN model to create cat face images. I hope to learn new methods along the way and come back to this project to pregressively improve my results!
 
+In order to view the notebook, please go to https://nbviewer.jupyter.org/github/anthonydwan/Cat-Face-GAN-/blob/master/Cat%20Face%20GAN%20model.ipynb
+
 Enjoy!
 
 # Sample Results #
